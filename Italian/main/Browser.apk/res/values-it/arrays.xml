@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="pref_op02_text_encoding_choices">
+        <item>Avtodetektor</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>Cinese (GB2312)</item>
+        <item>Cinese (GBK)</item>
+        <item>Cinese (Big5)</item>
+        <item>Giapponese (ISO-2022-JP)</item>
+        <item>giapponese (SHIFT_JIS)</item>
+        <item>giapponese (EUC-JP)</item>
+        <item>coreano (EUC-KR)</item>
+    </String-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>carattere macchina da scrivere</item>
+    </String-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>Pagina Corrente</item>
+        <item>Pagina Bianca</item>
+       <item>Pagina Predefinita</item>
+        <item>Siti web visitati spesso</item>
+        <item>siti Navigator</item>
+         <item>Un\'altra</item>
+    </String-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mai</item>
+        <item>solo tramite Wi-Fi</item>
+        <item>sempre</item>
+    </String-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Sì</item>
+        <item>Su richiesta</item>
+        <item>No</item>
+    </String-array>
+    <string-array name="pref_homepage_choices">
+        <item>Pagina Corrente</item>
+        <item>Pagina Bianca</item>
+         <item>Pagina Predefinita</item>
+        <item>siti web visitati spesso</item>
+        <item>Un\'altra</item>
+    </String-array>
+    <string-array name="pref_text_size_choices">
+        <item>Piccola</item>
+        <item>Piccola</item>
+        <item>medio</item>
+        <item>Grande</item>
+        <item>enorme</item>
+    </String-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Piccola</item>
+        <item>medio</item>
+        <item>Chiudi</item>
+    </String-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>rilevatore automatico</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Cinese (GBK)</item>
+        <item>Cinese (Big5)</item>
+        <item>Giapponese (ISO-2022-JP)</item>
+        <item>giapponese (SHIFT_JIS)</item>
+        <item>giapponese (EUC-JP)</item>
+        <item>coreano (EUC-KR)</item>
+    </String-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Mai</item>
+        <item>solo su Wi-Fi</item>
+        <item>sempre</item>
+    </String-array>
+</resources>

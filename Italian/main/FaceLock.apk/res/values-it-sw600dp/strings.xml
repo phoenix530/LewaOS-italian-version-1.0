@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="tutorial_header"> Per sbloccare lo schermo, guardare la fotocamera del dispositivo.</string>
+     <string name="tutorial_info_text"> "Si prega di notare:"<li><ul>" Funzione \"Face control\" è meno affidabile rispetto alla chiave, PIN-codice grafico o la password;"<li> sbloccare il dispositivo può un uomo come te;</li>" "<li>vostri dati identificativi memorizzati sul dispositivo in un accesso chiuso.</li>" "</ul></li></string>
+     <string name="intro_info_text">""<li><ul>"Trovare un posto dove non troppo chiaro né troppo scuro."<li>Tenere il dispositivo a livello degli occhi.</li>" "</ul></li> </string>
+     <string name="endscreen_info_text">Per sbloccare il dispositivo, basta guardare a lui.</string>
+     <string name="addtosetup_info_text">"Esempi"<li><ul>"con diversa illuminazione"<li> in vetri e senza </li>" "<li> Nel cappello e, senza </li>" "</ul></li>"Tenere il dispositivo a livello degli occhi."</string>
+</resources>
